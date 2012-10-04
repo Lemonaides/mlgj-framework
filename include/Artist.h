@@ -8,7 +8,6 @@
 #include <png.h>
 #include <cstdio>
 #include <cstdlib>
-#include <windows.h>
 
 #include <string>
 #include <vector>
